@@ -1,0 +1,18 @@
+/************************************/
+/*! CSS STYLESHEET*/
+/************************************/
+
+body {
+	font-family: 'PopulaireRegular' ,san-serif;
+	color: #cac8bb;
+	background: #420600 url('img/bg-texture.png') repeat;
+}
+
+h1{
+	font-size: 40em;
+}
+
+
+.nav {
+	background: -webkit-linear-gradient(#1c1b1b 0%, #ffffff 100%) url('img/pattern_header.png') repeat;
+}
